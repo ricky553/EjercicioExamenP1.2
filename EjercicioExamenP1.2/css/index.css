@@ -1,0 +1,18 @@
+.card {
+    width: 18rem; 
+    margin: auto;
+    border-radius: 15px; 
+    border-color: black;
+}
+.row {
+    justify-content: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    gap: 20px; 
+    padding: 20px 0;
+    background-color: #93c0ec;
+}    
